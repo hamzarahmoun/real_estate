@@ -1,6 +1,6 @@
 import React from "react"
 import Heading from "../../common/Heading"
-// import "./recent.css"
+import "./recent.css"
 
 const Recent = () => {
   return (
