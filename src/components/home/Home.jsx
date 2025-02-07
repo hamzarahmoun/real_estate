@@ -5,6 +5,7 @@ import Featured from "./featured/Featured"
 import Recent from "./recent/Recent"
 import Awards from "./awards/Awards"
 import Location from "./location/Location"
+import Team from "./team/Team"
 
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
       <Recent />
       <Awards />
       <Location />
+      <Team />
       
     </>
   )
